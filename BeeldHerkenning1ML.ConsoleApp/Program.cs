@@ -2,6 +2,7 @@ using System;
 using BeeldHerkening1ML.Model;
 namespace BeeldHerkening1
 
+    // aangemaakt na Machine Learning
 {
     class Program
     {
